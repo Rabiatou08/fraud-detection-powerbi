@@ -9,7 +9,6 @@ Comment aider une banque à détecter et réduire les fraudes de cartes de créd
 
  Solution
 Dashboard interactif avec 2 filtres dynamiques (Merchant Name, State) permettant d'analyser les fraudes par mois, par région, par type de fraude et par niveau de risque.
-![Dashboard](https://github.com/user-attachments/assets/9fbedaa9-d0b7-400f-9a5f-f8558acf6e11)
 
 
  Impact business
